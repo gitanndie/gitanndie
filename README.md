@@ -1,7 +1,7 @@
-### HELLO 
+# HELLO 
 ## I am looking for a job as a front end web developer 😄😄
 
-# 💬 Ask me about anndiegonzalez@gmail.com
+### - 📫 How to reach me: anndiegonzalez@gmail.com
 
 <!--
 **gitanndie/gitanndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
